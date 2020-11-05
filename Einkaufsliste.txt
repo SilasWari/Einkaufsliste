@@ -1,0 +1,8 @@
+Einkaufsliste
+______________
+
+Bananen
+Milch
+Brot
+Zucker
+Mehl
