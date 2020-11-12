@@ -34,3 +34,7 @@ An dieser Stelle wird ein Beispieltext verfasst, der zeigen soll wie einzelne Wo
 
 
 ***Vielen Dank, dass Sie sich die Zeit genommen haben!***
+
+## Ein Bild wird hinzugefügt:
+
+![Erster Versuch ein Bild hinzuzufügen](https://github.com/SilasWari/Einkaufsliste/blob/main/wp4892342.jpg "Schönes Bild")

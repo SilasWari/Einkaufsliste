@@ -1,0 +1,1 @@
+Das ist eine neue Datei, die mit einem Pullrequest übernommen werden soll.
